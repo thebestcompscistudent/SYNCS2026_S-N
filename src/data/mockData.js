@@ -61,7 +61,7 @@ export const EVENTS = [
     location: "UNSW Roundhouse",
     date: "Fri 12 Sep",
     time: "6:30 PM – 10:00 PM",
-    organiser: "WAMSOC — South Asian Student Society",
+    organiser: "South Asian Student Society",
     cost: "$10",
     interested: 61,
     description:
@@ -163,7 +163,7 @@ export const PLACES = [
 ];
 
 export const COMMUNITIES = [
-  { id: "c1", name: "WAMSOC — South Asian Student Society", culture: "Pakistani", members: 412 },
+  { id: "c1", name: "South Asian Student Society", culture: "Pakistani", members: 412 },
   { id: "c2", name: "Sydney Lebanese Association", culture: "Lebanese", members: 890 },
   { id: "c3", name: "Hangeul Circle", culture: "Korean", members: 233 },
   { id: "c4", name: "Bếp Nhà Community Kitchen", culture: "Vietnamese", members: 156 },
