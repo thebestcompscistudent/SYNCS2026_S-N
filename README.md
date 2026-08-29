@@ -1,0 +1,2 @@
+# SYNCS2026_S&N
+SYNCSHACK2026 Submission 
