@@ -31,9 +31,7 @@ import {
   UserPlus,
 } from "lucide-react";
 
-/* ------------------------------------------------------------------ */
-/* Mock data                                                           */
-/* ------------------------------------------------------------------ */
+// MOCK DATA
 
 const CULTURES = [
   { name: "Lebanese", flag: "🇱🇧" },
@@ -233,9 +231,7 @@ const NAV = [
   { id: "world", label: "My World", icon: Boxes },
 ];
 
-/* ------------------------------------------------------------------ */
-/* Small shared bits                                                    */
-/* ------------------------------------------------------------------ */
+// SMALL SHARED BITS
 
 function Chip({ active, onClick, children }) {
   return (
@@ -289,9 +285,7 @@ function EventCard({ event, saved, registered, interested, onToggleSave, onToggl
   );
 }
 
-/* ------------------------------------------------------------------ */
-/* Screens                                                              */
-/* ------------------------------------------------------------------ */
+// SCREENS
 
 function HomeScreen({
   selectedCultures,
@@ -726,7 +720,7 @@ function CommunityScreen({ posts, addPost, verified, communities }) {
   );
 }
 
-/* ----- My World: brick wall + profile + saved/registered journey ---- */
+// My World: brick wall + profile + saved/registered journey
 
 function BlockWall({ blocks }) {
   const rows = [];
@@ -856,9 +850,7 @@ function WorldScreen({
   );
 }
 
-/* ------------------------------------------------------------------ */
-/* Root app                                                             */
-/* ------------------------------------------------------------------ */
+// ROOT APP
 
 export default function BlockApp() {
   const [tab, setTab] = useState("home");
