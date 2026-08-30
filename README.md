@@ -113,7 +113,7 @@ This creates a simple place to keep track of upcoming cultural experiences.
 
 
 
-## 🗺️ Cultural Map
+## Cultural Map
 
 Explore the cultural world around you through an interactive map.
 
