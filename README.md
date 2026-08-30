@@ -143,7 +143,7 @@ Users can explore food based on cuisine and dietary requirements.
 
 
 
-## 👥 Community
+## Community
 
 Culture is not only about places and events — it's about people.
 
