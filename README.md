@@ -8,7 +8,7 @@ Culture isn't one thing. It's made up of the people, places, food, traditions an
 Block is a community and cultural discovery platform designed to help people reconnect with their culture and discover the communities around them.
 
 
-## 🌍 The Problem
+## The Problem
 
 For many people, connection to culture doesn't come automatically.
 
@@ -29,7 +29,7 @@ The result: People who want to connect with their culture often don't know where
 
 
 
-## 💡 Our Solution
+## Our Solution
 
 **Block brings the pieces together.**
 
@@ -119,15 +119,15 @@ Explore the cultural world around you through an interactive map.
 
 Users can discover:
 
-- 🎉 Events
-- 🍜 Restaurants
-- 🏛️ Cultural organisations
-- 👥 Community spaces
-- 📍 Other culturally relevant places
+- Events
+- Restaurants
+- Cultural organisations
+- Community spaces
+- Other culturally relevant places
 
 
 
-## 🍜 Food Discovery
+## Food Discovery
 
 Food is one of the most accessible ways to connect with culture.
 
